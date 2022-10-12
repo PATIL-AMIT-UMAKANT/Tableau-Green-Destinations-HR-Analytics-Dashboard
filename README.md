@@ -13,5 +13,6 @@ She would like to know what the attrition rate is (% of people who have left).
 She would also like to know if factors like age, years at the company and income play a part indetermining if people will leave or not.
 <br />
 <br />
+<br />
+<br />
 
-![Capture](https://user-images.githubusercontent.com/40834093/179002755-c249d063-b50a-4d32-9901-3c5666871c1d.PNG)
