@@ -14,4 +14,4 @@ She would also like to know if factors like age, years at the company and income
 <br />
 <br />
 
-
+![Capture](https://user-images.githubusercontent.com/40834093/179002755-c249d063-b50a-4d32-9901-3c5666871c1d.PNG)
